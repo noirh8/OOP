@@ -19,10 +19,10 @@ và các hàm thành phần xuất, nhập, định giá trị cho số phức, 
 chia hai số phức. Viết chương trình cho phép nhập vào hai số phức, in ra kết quả
 các phép toán cộng, trừ, nhân, chia hai số phức kể trên.
 Ví dụ: Cho hai số phức A(a1, a2), B(b1, b2)
-    A + B = (a1+b1, a2+b2)
-    A - B = (a1-b1, a2-b2)
-    A * B = (a1*b1 – a2*b2, a1*b2+a2*b1)
-    A / B = [(a1*b1 + a2*b2)/(b1^2 + b2^2) , (b1*a2 - a1*b2)/(b1^2 + b2^2)]
+    * A + B = (a1+b1, a2+b2); 
+    * A - B = (a1-b1, a2-b2); 
+    * A * B = (a1*b1 – a2*b2, a1*b2+a2*b1); 
+    * A / B = [(a1*b1 + a2*b2)/(b1^2 + b2^2) , (b1*a2 - a1*b2)/(b1^2 + b2^2)];
 3. Xây dựng lớp Candidate (Thí sinh) gồm các thuộc tính: mã, tên, ngày tháng năm
 sinh, điểm thi Toán, Văn, Anh và các phương thức cần thiết.
 Xây dựng lớp TestCandidate để kiểm tra lớp trên:
