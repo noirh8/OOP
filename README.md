@@ -31,7 +31,7 @@ Xây dựng lớp TestCandidate để kiểm tra lớp trên:
 - In ra thông tin về các thí sinh có tổng điểm lớn hơn 15
 
 
-## 3.Tuần 3
+## 3. Tuần 3
 1. Định nghĩa lớp Diem biểu diễn khái niệm điểm trong mặt phẳng với hai thành
 phần dữ liệu hoành độ và tung độ. Viết các phương thức thiết lập, các hàm thành
 phần cho phép thay đổi nội dung của điểm, lấy hoành độ, tung độ, tịnh tiến, nhập,
@@ -43,7 +43,7 @@ tịnh tiến, quay, phóng to, thu nhỏ tam giác.
 các hàm thành phần tương tự như lớp TamGiac.
 
 
-## 4.Tuần 4
+## 4. Tuần 4
 1. Định nghĩa lớp dữ liệu CTimeSpan để biểu diễn khái niệm khoảng thời gian, các
 hàm thành phần và các phép toán cần thiết (+, -, ==, !=, >, >=, <, <=), hàm xuất,
 nhập. Lưu ý viết theo dạng hàm: cong, tru, ...; không dùng overloading operator
