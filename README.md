@@ -1,4 +1,5 @@
-Tuần 1 ____________________________________________________________________________
+## 1. Tuần 1
+
 1. Viết chương trình nhập vào một phân số, rút gọn phân số và xuất kết quả.
 2. Viết chương trình nhập vào hai phân số, tìm phân số lớn nhất và xuất kết quả.
 3. Viết chương trình nhập vào hai phân số. Tính tổng, hiệu, tích, thương giữa chúng
@@ -8,7 +9,7 @@ và xuất kết quả.
 trung bình và xuất kết quả.
 
 
-Tuần 2 ____________________________________________________________________________
+## 2. Tuần 2
 1. Thiết lập lớp PhanSo để biểu diễn khái niệm phân số với hai thành phần dữ liệu
 tử số, mẫu số và các hàm thành phần cộng, trừ, nhân, chia hai phân số, các
 hàm thành phần xuất, nhập, định giá trị cho phân số. Viết chương trình cho
@@ -30,7 +31,7 @@ Xây dựng lớp TestCandidate để kiểm tra lớp trên:
 - In ra thông tin về các thí sinh có tổng điểm lớn hơn 15
 
 
-Tuần 3 ____________________________________________________________________________
+## 3.Tuần 3
 1. Định nghĩa lớp Diem biểu diễn khái niệm điểm trong mặt phẳng với hai thành
 phần dữ liệu hoành độ và tung độ. Viết các phương thức thiết lập, các hàm thành
 phần cho phép thay đổi nội dung của điểm, lấy hoành độ, tung độ, tịnh tiến, nhập,
@@ -42,7 +43,7 @@ tịnh tiến, quay, phóng to, thu nhỏ tam giác.
 các hàm thành phần tương tự như lớp TamGiac.
 
 
-Tuần 4 ____________________________________________________________________________
+## 4.Tuần 4
 1. Định nghĩa lớp dữ liệu CTimeSpan để biểu diễn khái niệm khoảng thời gian, các
 hàm thành phần và các phép toán cần thiết (+, -, ==, !=, >, >=, <, <=), hàm xuất,
 nhập. Lưu ý viết theo dạng hàm: cong, tru, ...; không dùng overloading operator
