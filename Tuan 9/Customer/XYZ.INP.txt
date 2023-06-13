@@ -1,0 +1,17 @@
+2 1 2
+Nguyen Van A
+50
+3000
+Vo Van B
+10
+5000
+Huynh Thi C
+10
+1500
+30
+Truong Van D
+60
+2000
+Nguyen Ha E
+20
+4500
