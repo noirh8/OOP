@@ -28,7 +28,7 @@ súc sẽ phát ra tiếng kêu để đòi ăn. Sau một thời gian chăn nu�
 trại muốn thống kê xem trong nông trại có bao nhiêu gia súc ở mỗi loại, tổng số
 lit sữa mà tất cả các gia súc của ông đã cho.
 Áp dụng kế thừa, xây dựng chương trình cho phép người chủ nông trại nhập vào
-số lượng gia súc ban đầu ở mỗi loại.
+số lượng gia súc ban đầu ở mỗi loại. <br />
 a. Một hôm người chủ nông trại đi vắng, tất cả gia súc trong nông trại đều
 đói. Hãy cho biết những tiếng kêu nghe được trong nông trại (xuất tiếng kêu
 dạng chuỗi).
