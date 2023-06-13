@@ -237,7 +237,7 @@ Xuất kết quả ra file SOFITEL.OUT dưới định dạng theo quy định.
    * Thiết kế và xây dựng các lớp để liệt kê phòng có doanh thu vượt trội. Biết
 phòng có doanh thu vượt trội thỏa tính chất:
 Doanh thu tháng >= Doanh thu tháng trước * 125%
-Xuất kết quả ra file SOFITEL.OUT dưới định dạng theo quy định. [BTTuan9.pdf](https://github.com/noirh8/OOP/files/11730174/BTTuan9.pdf)
+Xuất kết quả ra file SOFITEL.OUT dưới định dạng theo quy định.
 
 5. Cho N hình, gồm các loại hình: tam giác, chữ nhật, hình vuông, hình tròn (đọc từ
 file).
