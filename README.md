@@ -214,7 +214,7 @@ Viết chương trình thực hiện các yêu cầu sau:Trường ĐH Công Ngh
    * Sử dụng con trỏ hàm để tính Tổng số tiền mỗi khách hàng trong danh sách
 phải trả. Xuất kết quả ra file XYZ.OUT dưới định dạng theo quy định.
    * Thiết kế và xây dựng các lớp để giải quyết bài toán tính Tổng số tiền công
-ty thu được. Xuất kết quả ra file XYZ.OUT dưới định dạng theo quy định.
+ty thu được. Xuất kết quả ra file XYZ.OUT dưới định dạng theo quy định. 
 
 4. Khách sạn SOFITEL có 3 loại phòng với doanh thu phòng của tháng được tính
 như sau:
@@ -237,7 +237,7 @@ Xuất kết quả ra file SOFITEL.OUT dưới định dạng theo quy định.
    * Thiết kế và xây dựng các lớp để liệt kê phòng có doanh thu vượt trội. Biết
 phòng có doanh thu vượt trội thỏa tính chất:
 Doanh thu tháng >= Doanh thu tháng trước * 125%
-Xuất kết quả ra file SOFITEL.OUT dưới định dạng theo quy định.
+Xuất kết quả ra file SOFITEL.OUT dưới định dạng theo quy định. [BTTuan9.pdf](https://github.com/noirh8/OOP/files/11730174/BTTuan9.pdf)
 
 5. Cho N hình, gồm các loại hình: tam giác, chữ nhật, hình vuông, hình tròn (đọc từ
 file).
