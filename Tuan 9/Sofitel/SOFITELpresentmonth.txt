@@ -1,0 +1,26 @@
+2 3 4
+deluxe01
+60000
+40000
+6
+deluxe02
+50000
+20000
+5
+premium01
+70000
+7
+premium02
+100000
+4
+premium03
+200000
+5
+business01
+8
+business02
+5
+business03
+10
+business04
+20
