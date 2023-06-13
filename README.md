@@ -211,14 +211,12 @@ khuyến mãi) + Thuế VAT (10%)
 Số tiền khách hàng trả = (Số lượng hàng * đơn giá hàng) *50% + Thuế VAT
 (10%)
 Viết chương trình thực hiện các yêu cầu sau:Trường ĐH Công Nghệ Thông Tin – Khoa Công Nghệ Phần Mềm
-1) Nhập danh sách khách hàng từ file văn bản XYZ.INP. 0< x,y,z<1000.
-2) Sử dụng con trỏ hàm để tính Tổng số tiền mỗi khách hàng trong danh sách
+   * Nhập danh sách khách hàng từ file văn bản XYZ.INP. 0< x,y,z<1000.
+   * Sử dụng con trỏ hàm để tính Tổng số tiền mỗi khách hàng trong danh sách
 phải trả. Xuất kết quả ra file XYZ.OUT dưới định dạng theo quy định.
-3) Thiết kế và xây dựng các lớp để giải quyết bài toán tính Tổng số tiền công
+   * Thiết kế và xây dựng các lớp để giải quyết bài toán tính Tổng số tiền công
 ty thu được. Xuất kết quả ra file XYZ.OUT dưới định dạng theo quy định.
-| XYZ.INP | XYZ.OUT |
-| ------- | ------- |
-| x y z | x y z |
+
 4. Khách sạn SOFITEL có 3 loại phòng với doanh thu phòng của tháng được tính
 như sau:
 - Loại Deluxe: doanh thu phòng = (Số đêm * 750000 + Phí dịch vụ) * (100%
@@ -232,53 +230,16 @@ Thông tin của z
 khách hàng Loại CTrường ĐH Công Nghệ Thông Tin – Khoa Công Nghệ Phần Mềm
 - Loại Business: doanh thu phòng = Số đêm * 300000
 Viết chương trình thực hiện các yêu cầu sau:
-1) Nhập danh sách các phòng được sử dụng từ tập tin văn bản SOFITEL.INP.
+   * Nhập danh sách các phòng được sử dụng từ tập tin văn bản SOFITEL.INP.
 d: số phòng loại Deluxe, p: số phòng loại Premium, b: số phịng loại Business
 (0<d,p,b<1000)
-2) Sử dụng con trỏ hàm để tính doanh thu từng loại phòng khách sạn thu được.
+   * Sử dụng con trỏ hàm để tính doanh thu từng loại phòng khách sạn thu được.
 Xuất kết quả ra file SOFITEL.OUT dưới định dạng theo quy định.
-3) Thiết kế và xây dựng các lớp để liệt kê phòng có doanh thu vượt trội. Biết
+   * Thiết kế và xây dựng các lớp để liệt kê phòng có doanh thu vượt trội. Biết
 phòng có doanh thu vượt trội thỏa tính chất:
 Doanh thu tháng >= Doanh thu tháng trước * 125%
 Xuất kết quả ra file SOFITEL.OUT dưới định dạng theo quy định.
-SOFITEL.INP SOFITEL.OUT
-d p b
-MaPhongD1
-SoDemD1
-PhiDichVuD1
-PhiPhucVuD1
-…
-MaPhongDd
-SoDemDd
-PhiDichVuDd
-PhiPhucVuDd
-MaPhongP1
-SoDemP1
-PhiDichVuP1
-…
-MaPhongPp
-SoDemPp
-PhiDichVuPp
-MaPhongB1
-SoDemB1
-…
-MaPhongBb
-SoDemBb
-d p b
-TongDoanhThuLoaiPhongDeluxe
-TongDoanhThuLoaiPhongPremium
-TongDoanhThuLoaiPhongBusiness
-SoPhongVuotTroi
-MaPhongVuotTroi1
-MaPhongVuotTroi2
-MaPhongVuotTroi3
-…
-Thông tin của d
-phòng Loại Deluxe
-Thông tin của p phòng
-Loại Premium
-Thông tin của b
-phòng Loại BusinessTrường ĐH Công Nghệ Thông Tin – Khoa Công Nghệ Phần Mềm
+
 5. Cho N hình, gồm các loại hình: tam giác, chữ nhật, hình vuông, hình tròn (đọc từ
 file).
 Các hình được mô tả với các thông số như sau:
@@ -293,60 +254,31 @@ trái trên và chiều dài, chiều rộng của hình chữ nhật đó. Xu�
 văn bản như ví dụ sau:
 Yêu cầu: thiết kế các lớp đối tượng để giải quyết sao cho chương trình có khả
 năng tiến hóa, dễ dàng thêm các loại hình mới.
-Ví dụ: INPUT.DAT
-3 C
--2 4 3 2
-T 1 1 1
-G 2 -2 6 -2 6
-2
-Có tất cả 3 hình
-Hình chữ nhật góc trái trên (-2, 4), dài 3
-rộng 2
-Hình tròn tâm (1, 1), bán kính 1
-Hình tam giác (2, -2), (6, -2), (6, 2)
-KETQUA.DAT
--2 4 8 6
-Hình chữ nhật nhỏ nhất bao quanh N hình đã cho có tọa
-độ góc trái trên (-2, 4) và dài 8 rộng 6
-6
-8
-(-2, 4)
-C T
-G
 6. Cho sẵn 3 hàm số:
- f(x) = k1*x - 3Trường ĐH Công Nghệ Thông Tin – Khoa Công Nghệ Phần Mềm
- g(x) = -3x2 + k2*x
- h(x) = 7x3 + k3*x2 - 5
+ - f(x) = k1*x - 3Trường ĐH Công Nghệ Thông Tin – Khoa Công Nghệ Phần Mềm
+ - g(x) = -3x<sup>2</sup> + k2*x
+ - h(x) = 7x<sup>3</sup> + k3*x<sup>2</sup> - 5
 và 3 tham số min, max, step.
 Viết chương trình thực hiện các yêu cầu sau:
-1. Đọc 6 tham số trên từ tập tin KHAOSAT.INP. Tập tin chỉ gồm một dòng duy
+   - Đọc 6 tham số trên từ tập tin KHAOSAT.INP. Tập tin chỉ gồm một dòng duy
 nhất chứa 6 số thực k1, k2, k3, min, max, step (mỗi số cách bởi một khoảng
 trắng).
-2. Sử dụng con trỏ hàm để in bảng giá trị của 3 hàm trên trong khoảng [min,
+   - Sử dụng con trỏ hàm để in bảng giá trị của 3 hàm trên trong khoảng [min,
 max] với bước nhảy l step ra tập tin KHAOSAT.OUT. Dòng đầu tiên chứa
 các số ứng với gi trị của x khảo st: x1, x2, x3, … (mỗi số cách nhau bởi đúng
 một khoảng trắng) với x1 = min, x2 = min+step, … Dòng thứ hai chứa cc gi
 trị f(x1), f(x2), f(x3), … Tương tự, dòng thứ ba cho hàm g và dòng thứ tư cho
 hàm h.
-3. Thiết kế và xây dựng các lớp để in ra bảng giá trị đạo hàm ra tập tin
+   - Thiết kế và xây dựng các lớp để in ra bảng giá trị đạo hàm ra tập tin
 KHAOSAT.OUT. Dòng tiếp theo đầu tiên chứa các số f’(x1), f’(x2), f’(x3), …
 Tương tự cho hai dòng kế tiếp ứng với g’ và h’.
-Ví dụ:
-KHAOSAT.INP KHAOSAT.OUT
-1 2 3 -2 2 2 -2 0 2
--5 -3 -1
--16 0 -8
--49 -5 63
-1 1 1
-14 2 -10
-72 0 96
 7. Viết chương trình tính diện tích và chu vi các hình: Hình chữ nhật biết hai cạnh,
 hình tam giác biết ba cạnh, hình tròn biết bán kính. Chương trình có giao diện
 như sau:
-1. Nhập kích thước các hình
-2. Hiện thị diện tích và chu vi các hình đã nhập
-3. Kết thúc chương trình
-Lựa chọn công việc (1, 2, 3):Trường ĐH Công Nghệ Thông Tin – Khoa Công Nghệ Phần Mềm
+   * Nhập kích thước các hình
+   * Hiện thị diện tích và chu vi các hình đã nhập
+   * Kết thúc chương trình
+Lựa chọn công việc (1, 2, 3)
 Khi người sử dụng chọn 1 thì hỏi người sử dụng nhập kích thước cho hình nào,
 nhập xong hỏi người sử dụng có nhập tiếp không. Yêu cầu trong chương trình có
 cài đặt sự đa hình liên kết động
