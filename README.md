@@ -183,7 +183,6 @@ ra ưu điểm của cách dùng liên kết động
 
 
 ## 9.Tuần 9 
-`#0969DA`
 1. Áp dụng function template để giải các bài tập sau:
    * Tìm min, max giữa 2 phần tử kiểu T (int, float, PhanSo, …).
    * Tìm phần tử dương lớn nhất trong mảng kiểu T (int, float, PhanSo, …).
