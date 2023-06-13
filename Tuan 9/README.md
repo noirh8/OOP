@@ -77,6 +77,7 @@ hàm h.
 3. Thiết kế và xây dựng các lớp để in ra bảng giá trị đạo hàm ra tập tin
 KHAOSAT.OUT. Dòng tiếp theo đầu tiên chứa các số f’(x1), f’(x2), f’(x3), …
 Tương tự cho hai dòng kế tiếp ứng với g’ và h’.
+
 7. Viết chương trình tính diện tích và chu vi các hình: Hình chữ nhật biết hai cạnh,
 hình tam giác biết ba cạnh, hình tròn biết bán kính. Chương trình có giao diện
 như sau:
