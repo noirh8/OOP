@@ -1,4 +1,4 @@
-```
+`code()`
 #include <iostream>
 #include "PhanSo.cpp"
 #include "Template.cpp"
@@ -37,4 +37,4 @@ int main()
     }
     return 0;
 }
-```
+
