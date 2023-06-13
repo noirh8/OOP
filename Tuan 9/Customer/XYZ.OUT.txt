@@ -1,0 +1,12 @@
+2 1 2
+Ten: Nguyen Van A
+So tien phai tra: 165000
+Ten: Vo Van B
+So tien phai tra: 55000
+Ten: Huynh Thi C
+So tien phai tra: 8250
+Ten: Truong Van D
+So tien phai tra: 66000
+Ten: Nguyen Ha E
+So tien phai tra: 49500
+Tong so tien ma cong ty nhan duoc: 343750
